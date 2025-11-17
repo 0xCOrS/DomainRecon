@@ -292,6 +292,6 @@ gowitness scan file -f input_file --write-csv
 
 ## 7. Automatización Reconocimiento.
 
-De cara a realizar el reconocimiento de manera automatizada se escribe un script llamado [metrallaFinder](https://saco.ciber.def/india/codigo/information-gathering/infra-recon/-/tree/script-upload) en python.
+De cara a realizar el reconocimiento de manera automatizada se escribe un script llamado [metrallaFinder](https://github.com/0xCOrS/metrallaFinder) en python.
 
 
