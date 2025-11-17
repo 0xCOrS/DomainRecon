@@ -1,6 +1,6 @@
  # Reconocimiento
  
- A continuación se detalla la metodología seguida para reconocer los subdominios asociados a un dominio principal reduciendo en la medida de lo posible las interacciones directas con el objetivo a reconocer. El objetivo es obtener la mayor cantidad de información mediante el reconocimiento pasivo de una manera rápida que permita hacerse una idea del tamaño de la infraestructura que posee el objetivo.
+ A continuación se detalla una metodología seguida para reconocer los subdominios asociados a un dominio principal reduciendo en la medida de lo posible las interacciones directas con el objetivo a reconocer. El objetivo es obtener la mayor cantidad de información mediante el reconocimiento pasivo de una manera rápida que permita hacerse una idea del tamaño de la infraestructura que posee el objetivo.
  
 No pretende ser una lista exhaustiva de todas las técnicas de reconocimiento existente. Únicamente se detallan los pasos seguidos para hacer el reconocimiento de manera gratuita, sin utilizar ninguna cuenta ni ninguna API-KEY. El último punto incluye un script propio utilizado para automatizar esta tarea, se incluye explicación.
 
